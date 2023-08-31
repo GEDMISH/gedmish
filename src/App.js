@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          gedmish
+          gedmish cicd
         </a>
       </header>
     </div>
